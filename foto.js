@@ -17,13 +17,13 @@ window.LINK_ASLI = {
 // 2) DESKRIPSI: teks singkat di bawah judul saat foto dibuka (boleh dikosongkan).
 
 window.DESKRIPSI = {
-  'Sore yang menguning': '',
-  'Dua kapal yang hampir menyatu': '',
-  'Perahu berlayar sendiri': '',
-  'Tanpa judul': '',
-  'Di atas': '',
-  'Asap yang hampir membunuh': '',
-  'Matahari lari ke dalam laut': ''
+  'Sore yang menguning': 'temen gua mandul anj',
+  'Dua kapal yang hampir menyatu': 'temen gw ilang duit 400k',
+  'Perahu berlayar sendiri': 'peler bowo tinggal siji',
+  'Air yang sudah terjun': 'asu kabeh',
+  'Di atas ketinggian': 'alam alam ganjar',
+  'Asap yang hampir membunuh': 'parabowo 5 periode',
+  'Matahari lari ke dalam laut': 'aku tetap jokowi'
 };
 
 // 3) FOTO_BARU: tambah foto baru. Satu foto = satu baris.
